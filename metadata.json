@@ -6,6 +6,9 @@
   "license": "Apache-2.0",
   "source": "",
   "dependencies": [
+    {
+      "name": "camptocamp-kmod"
+    }
 
   ],
   "operatingsystem_support": [
